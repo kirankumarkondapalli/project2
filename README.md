@@ -140,7 +140,7 @@ footer a:hover{
 		</nav> 
 		<section>
 			<article>
-				<img src=  "https://postimg.cc/mtg78sZh" alt="adidas "  ;>
+				<img src=  " <a href='http://postimg.cc/gxXpynfs' target='_blank'><img src='https://i.postimg.cc/gxXpynfs/ad.jpg' border='0' alt='ad'/></a>" alt="adidas "  ;>
 				<h2>crush your Comfort zone-adidas</h2>
 				<p class="posted">Posted October 15, 2018</p>
 				<p> These adidas shoes are certainly a classic, and most people will 
