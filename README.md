@@ -11,7 +11,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Kavivanar', cursive;
+    font-family: 'Kavivanar','open sans';
     font-weight: normal;
 }
 h2 {
