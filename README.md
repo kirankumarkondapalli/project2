@@ -139,7 +139,7 @@ footer a:hover{
 		</nav> 
 		<section>
 			<article> 
-				<h2>crush your Comfort zone-adidas</h2>
+				<h2>Crush your comfort zone-adidas</h2>
 				<p class="posted">Posted October 15, 2018</p>
 				<p> These adidas shoes are certainly a classic, and most people will 
 own a pair of these. They are available in a whole variety of colors and women can 
