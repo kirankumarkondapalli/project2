@@ -140,7 +140,7 @@ footer a:hover{
 		</nav> 
 		<section>
 			<article>
-				<img src=  " https://i.postimg.cc/y8nNHRjM/ad.jpg" alt="adidas "  ;>
+				 
 				<h2>crush your Comfort zone-adidas</h2>
 				<p class="posted">Posted October 15, 2018</p>
 				<p> These adidas shoes are certainly a classic, and most people will 
@@ -155,7 +155,6 @@ comfortable.</p>
 				<p><a href="blog1.html">Read more >> </a></p>
 			</article>
 			<article>
-				<img src= " https://i.postimg.cc/FsLP8grK/nk.jpg" alt="Nike ">
 				<h2>Runs end. running doesn't -Nike</h2>
 				<p class="posted">Posted October 5, 2018</p>
 				<p>Nike produces a wide range of sports equipment. Their first products were track running shoes. They currently also make shoes, jerseys, shorts, cleats, baselayers, etc. for a wide range of sports, including track and field, baseball, ice hockey, tennis, association football (soccer), lacrosse, basketball, and cricket. Nike Air Max is a line of shoes first released by Nike, Inc. in 1987. Additional product lines were introduced later, such as Air Huarache, which debuted in 1992. The most recent additions to their line are the Nike 6.0, Nike NYX, and Nike SB shoes, designed for skateboarding. Nike has recently introduced cricket shoes called Air Zoom Yorker, designed to be 30% lighter than their competitors'.[49] In 2008, Nike introduced the Air Jordan XX3, a high-performance basketball shoe designed with the environment in mind.</p>
