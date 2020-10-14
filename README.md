@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
  <style>
@@ -139,8 +138,7 @@ footer a:hover{
 			</ul>
 		</nav> 
 		<section>
-			<article>
-				 
+			<article> 
 				<h2>crush your Comfort zone-adidas</h2>
 				<p class="posted">Posted October 15, 2018</p>
 				<p> These adidas shoes are certainly a classic, and most people will 
