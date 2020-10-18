@@ -124,7 +124,7 @@ footer a:hover{
 				<a href="/"><img src= "  https://i.postimg.cc/c4BLmNrH/download-2.jpg" alt="best shoe"></a>
 			</div>
 			<div class="rightheader">
-				<h1 >Kiran Shoes</h1>
+				<h1 >Metro Shoes</h1>
 				<p>Good shoes take u good place</p>
 			</div>
 		</header>
